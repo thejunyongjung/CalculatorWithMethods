@@ -28,7 +28,7 @@ public class App2 {
                 System.out.println("1. Balance");
                 System.out.println("2. Withdraw 100 dollars");
                 System.out.println("3. Deposit");
-                System.out.print("Choose 1, 2, or 3");
+                System.out.print("Choose 1, 2, or 3: ");
 
                 int option = scanner.nextInt();
                 if  (option == 1) {
